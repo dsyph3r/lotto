@@ -18,3 +18,4 @@ PhoneGap mobile version will spawn out of it too)
  - Add new draw types, thunderball, euro millions, etc
  - Calculate total spent and total won
  - Track syndicate member payments
+ 
