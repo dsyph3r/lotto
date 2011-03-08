@@ -1,0 +1,3 @@
+hello:
+    pattern:  /lotto/{name}
+    defaults: { _controller: LottoLottoBundle:Lotto:index }
